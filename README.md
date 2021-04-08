@@ -1,2 +1,2 @@
-# Java-Bicycle-Rental-Project-
-1달 동안 자바 공부하고 "자전거 대여 프로젝트" 구현해보기 
+# Java-Bicycle-Rental-Project-"
+연결리스트를 활용해 CRUD 가능한 자전거 대여 프로그램 구현
